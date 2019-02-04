@@ -9,7 +9,7 @@ This repository provides two code style schemes for IntelliJ (required version >
 To import this code style settings to you IntelliJ just follow the documentation [IntelliJ - Sharing IDE Settings](https://www.jetbrains.com/help/idea/2017.1/sharing-your-ide-settings.html#d395653e148)
 
 - Go to: `File -> Settings -> Tools -> Settings Repository`
-- Click `+` add the repository url: `https://github.com/mendlik/intellij-codestyle.git`
+- Click `+` add the repository url: `https://github.com/pmendelski/intellij-codestyle.git`
 - Code styles should sync automatically
 - Go to: `File -> Settings -> Editor -> Code Style`
 - Pick the Code Style
